@@ -1,0 +1,11 @@
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\obj\Debug\ConvertFileExtensions.vbproj.AssemblyReference.cache
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\obj\Debug\ConvertFileExtensions.Resources.resources
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\obj\Debug\ConvertFileExtensions.vbproj.GenerateResource.cache
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\obj\Debug\ConvertFileExtensions.vbproj.CoreCompileInputs.cache
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\bin\Debug\ConvertFileExtensions.exe.config
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\bin\Debug\ConvertFileExtensions.exe
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\bin\Debug\ConvertFileExtensions.pdb
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\bin\Debug\ConvertFileExtensions.xml
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\obj\Debug\ConvertFileExtensions.exe
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\obj\Debug\ConvertFileExtensions.xml
+D:\oak\srv\OakApp\ConvertFileExtensions\ConvertFileExtensions\obj\Debug\ConvertFileExtensions.pdb
